@@ -1,1 +1,1 @@
-web:java -jar target/*.jar
+web:java -jar rtdhhy6/target/*.jar
